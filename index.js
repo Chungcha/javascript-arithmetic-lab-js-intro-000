@@ -17,8 +17,8 @@ function dec(n){
   return n-=1;
 }
 function markInt(n){
-  return parseInt(n, 10);
+  return parseInt("n", 10);
 }
 function perserveDecimal(n){
-  return parseFloat(n);
+  return parseFloat("n");
 }
