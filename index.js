@@ -19,7 +19,7 @@ function dec(n){
 function makeInt(n){
   parseInt("n", 10);
 }
-makeInt(559);
+makeInt(995);
 function perserveDecimal(n){
   return parseFloat("n");
 }
